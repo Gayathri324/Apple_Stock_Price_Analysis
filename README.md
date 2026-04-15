@@ -117,7 +117,7 @@ apple-stock-analysis/
 
 ---
 
-## 📎 Dashboard
+## Dashboard
 
 - Power BI dashboard file (.pbix) is available in this repository  
 - Dashboard preview image is included above  
